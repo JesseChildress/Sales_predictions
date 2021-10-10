@@ -1,6 +1,6 @@
 # sales-predictions
 This is code for a sales prediction for food sold at various stores, using data from 10 different stores compiled in this dataframe:https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
-In this project, I 
+In this project, I \n
   -Clean the data
   -Explore the data
   -Make visual representations to better understand the data
