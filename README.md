@@ -14,3 +14,20 @@ In this project, I:
   -Use Machine Learning regression models (linear regression, decision trees, bagged trees, and random forests) to create predictions for item sales
   
   -Recommend the best regression model out of the ones I fit to the data
+  
+It can be seen that:
+
+  -Grocery stores have the lowest sales, and Type 1 Supermarkets have the highest
+  
+  -OUT027, a medium-size Type 3 Supermarket, has the highest sales
+  
+  -OUT027 has item visilibity in it store closer to the mean than the other stores
+  
+From the analysis, I recommend:
+  
+  -Avoiding dominating visibility in the store with a few products
+  
+  -Avoiding investing in Grocery Stores, because they have the lowest sales
+  
+  -Doing further analysis on OUT027, a Type 3 Supermarket that significantly outperformed all the other stores in sales
+
