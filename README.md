@@ -1,5 +1,5 @@
 # sales-predictions
-This is code for a project that predicts sales for food items and tries to understand factors that contribute to overall sales. I use data from 10 different stores, which is compiled in this dataframe: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view.
+This is code for a project using data from various grocery stores and supermarkets to visualize and analyze sales in order to identify features of the stores that correlate with higher sales.. I use data from 10 different stores, which is compiled in this dataframe: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view.
 
 <strong>In this project, I: </strong>
 
